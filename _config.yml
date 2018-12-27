@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "Elme's Blog."
 url                      : "https://wlsl4239.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "blog"
 repository               : "blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
