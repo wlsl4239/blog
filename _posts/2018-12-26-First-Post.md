@@ -2,7 +2,7 @@
 title: 자기 주도 학습
 ---
 # About Go_Brain  
-<a href="https://gitpitch.com/joswoo/public">  
+https://gitpitch.com/joswoo/public  
 
 ---
 # WEEK 1  
@@ -14,7 +14,7 @@ title: 자기 주도 학습
 # WEEK 2  
 ## SSAFY Start Camp 챗봇 퀘스트  
 
-서울_9_김경수, <a href="https://github.com/wlsl4239/SSAFY/tree/master/WEEK2">  
+서울_9_김경수, https://github.com/wlsl4239/SSAFY/tree/master/WEEK2  
 
 ### 기본 사항
 파이썬 기초와 웹 크롤링, 데이터 처리, 엑셀 및 그래프화 방법을 배웠고, Slack을 활용해 bot을 만들었다.  
